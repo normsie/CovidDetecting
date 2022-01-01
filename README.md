@@ -1,1 +1,2 @@
 # CovidDetecting
+This project is a Coursera's guilded project that instructs how to use basic PyTorch functions to classify X-Ray images to detect covid in patients. The result, however, is not scalable, as covid diagnoses require professional evaluation from doctor and many other factors, given that Covid is growing to be more and more complicated. Thus, this project is done solely on purpose of learning. 
